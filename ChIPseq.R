@@ -1,4 +1,3 @@
-library(conflicted)
 library(RColorBrewer)
 library(ChIPseeker)
 library(TxDb.Mmusculus.UCSC.mm10.knownGene)
